@@ -1,0 +1,17 @@
+Alhamdulillah, telah rampung CMS Swarakalibata khusus untuk Website Instansi.
+
+versi ini adalah versi 2.0, yang pasti akan selalu diupdate oleh admin secara berkala. Mohon maklum jika ada kekurangan.
+
+
+================================
+jangan lupa 
+
+database : instansi.sql (harap import ke phpmyadmin)
+pengaturan koneksi database : application -> config -> database.php
+
+halaman admin : localhost/namafolder/administrator
+
+username : admin
+password : admin123
+
+=======================================
